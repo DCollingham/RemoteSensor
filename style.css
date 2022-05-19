@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+    height: 100vh;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reading{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Quicksand', Tahoma, Geneva, Verdana, sans-serif;
+}
