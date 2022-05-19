@@ -1,4 +1,6 @@
 <?Php
+
+//Add a sample reading to the database
 require_once 'classes/dbh.php';
 require_once 'classes/sensor.php';
 
